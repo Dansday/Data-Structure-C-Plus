@@ -1,4 +1,4 @@
-# Data Structure C++
+# Latihan Data Structure C++
 
 This repository contains the source code and documentation for a university project developed using Dev C++. The project is aimed at implementing a all basic function in Dev C++. The implementation is based on from lecturer. The project source code is organized into some folder and file.
 
